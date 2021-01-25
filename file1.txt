@@ -1,2 +1,3 @@
 file1
+add new line 1 in forktest
 add line 1 in test
