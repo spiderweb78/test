@@ -1,4 +1,5 @@
 file1
 add new line 1 in forktest
+add new line 2 in forktest
 add line 1 in test
 add line 2 in test
